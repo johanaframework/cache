@@ -7,7 +7,7 @@
     { "name": "Vova Zolotoy", "email": "vovazolotoy@gmail.com" }
   ],
  "devDependencies": {
-    "johana": ">= 0.0.1",
+    "johana": ">= 0.0.1"
   },
   "keywords": ["framework", "api", "web", "cache", "memcached"],
   "repository": "git://github.com/johanaframework/cache"
