@@ -1,7 +1,7 @@
 {
   "name": "johana-cache",
   "description": "Cache module for Johana framework",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Johana Team <johanaframework@gmail.com>",
   "contributors": [ 
     { "name": "Vova Zolotoy", "email": "vovazolotoy@gmail.com" }
